@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Clone with Image Generation",
+  "description": "A web application that clones the core functionality of Gemini, allowing users to engage in text-based conversations and generate images from text prompts.",
+  "requestFramePermissions": []
+}
